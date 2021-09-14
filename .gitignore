@@ -8,4 +8,10 @@
 /.settings
 /*.project
 /target/
+*/target/
 
+/.idea
+/dubbo-api/dubbo-api.iml
+/dubbo-customer/dubbo-customer.iml
+/dubbo-provider/dubbo-provider.iml
+/spring-dubbo-mydemo.iml
