@@ -7,6 +7,13 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * @title
+ * @description HelloController 消费者入口
+ * @author FuQiangCalendar
+ * @updateTime 2021/9/15 9:29
+ * @throws
+ */
 @RestController
 public class HelloController {
  

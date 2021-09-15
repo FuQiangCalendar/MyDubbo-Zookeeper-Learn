@@ -7,7 +7,7 @@ import com.fuqiang.api.service.HelloService;
  * @author FuQiangCalendar
  * @title: HelloServiceImpl
  * @projectName spring-dubbo-mydemo
- * @description: TODO
+ * @description: HelloService 实现类
  * @date 2021/9/14 17:25
  */
 @Service //Dubbo 的Service注解 发布服务
